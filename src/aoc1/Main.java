@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class AoC1 {
+public class Main {
     public static void main(String[] args) {
         ReadFile rf = new ReadFile("aoc1");
         rf.readLines(args[0]);
